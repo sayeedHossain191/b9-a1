@@ -1,0 +1,314 @@
+.banner {
+    margin-left: 100px;
+    margin-top: 50px;
+    filter: brightness(.5);
+
+}
+
+.banner-text {
+    font-family: 'Merriweather', serif;
+    position: absolute;
+    text-align: center;
+    margin-left: 490px;
+    top: 120px;
+}
+
+.text-1 {
+    font-size: 45px;
+    color: white;
+    text-shadow: black;
+}
+
+.text-2 {
+    color: white;
+    font-size: 70px;
+    text-shadow: black;
+}
+
+.sec-2 {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.off {
+    font-size: 88px;
+    color: red;
+    font-weight: bold;
+}
+
+.off-text {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.off-text-1 {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.new-year {
+    width: 802.9px;
+    height: 500px;
+}
+
+.holiday {
+    margin-top: 50px;
+    margin-left: 100px;
+    filter: brightness(.5);
+}
+
+.party {
+    position: absolute;
+    display: flex;
+    gap: 20px;
+    border-radius: 10px;
+    margin-left: 103px;
+    padding: 62px;
+    background: linear-gradient(90deg, #1a1311 0%, rgba(105, 85, 77, 0) 100%);
+    top: 1689px;
+}
+
+.party-text1 {
+    font-family: 'Merriweather', serif;
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+}
+
+
+.btn {
+    font-size: 20px;
+    color: white;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    margin-top: 45px;
+}
+
+.party-text2 {
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.book {
+    font-family: 'Inter', sans-serif;
+    border-radius: 15px;
+    margin-top: 60px;
+    margin-left: 117px;
+    margin-right: 100px;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    font-size: 24px;
+    font-weight: bold;
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    margin-bottom: 30px;
+
+}
+
+.btn-join {
+    background-color: #F00;
+    color: white;
+    font-size: 15px;
+    border-radius: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.red {
+    color: red;
+
+}
+
+.best-offer {
+    font-family: 'Inter', sans-serif;
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.best-offer1 {
+    font-family: 'Inter', sans-serif;
+    color: red;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.soon {
+    font-family: 'Merriweather', serif;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.offer {
+    display: flex;
+    margin-left: 300px;
+    margin-right: 250px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.new-pic {
+    border-radius: 50%;
+    padding: 2%;
+    border: 10px solid red;
+}
+
+.what {
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.holidays {
+    color: red;
+    font-family: 'Merriweather', serif;
+}
+
+.sale {
+    font-family: 'Merriweather', serif;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.dolor {
+    font-family: 'Inter', sans-serif;
+}
+
+.offer1 {
+    margin-left: 35px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.reg1 {
+    margin-top: 50px;
+    margin-left: 890px;
+}
+
+.reg2 {
+    margin-left: 169px;
+    top: 4140px;
+    position: absolute;
+    width: 1150px;
+    height: 200px;
+
+}
+
+.box {
+    position: absolute;
+    top: 3810px;
+    width: 560px;
+    margin-left: 220px;
+}
+
+.off1 {
+    position: absolute;
+    top: 3700px;
+    margin-left: 730px;
+
+}
+
+.gift {
+    font-family: 'Inter', sans-serif;
+    margin-top: 250px;
+    margin-left: 170px;
+}
+
+.awsome {
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.shop {
+    margin-left: 160px;
+
+}
+
+.shop-pic {
+    width: 340px;
+    margin: 10px;
+    transition: 1s;
+}
+
+.shop-pic:hover {
+    transform: scale(1.2);
+
+}
+
+.subscribe {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
+
+.mail {
+    width: 120px;
+}
+
+.abcd {
+    width: 258px;
+    height: 38px;
+    border: none;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    border-radius: 50px 0 0 50px;
+
+}
+
+.about-sec {
+    font-family: 'Inter', sans-serif;
+    margin-left: 170px;
+    margin-right: 145px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #FFE7C1;
+    border-radius: 15px;
+}
+
+.btn1 {
+    border-radius: 0px 50px 50px 0px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: #FF0000;
+    color: white;
+    cursor: p;
+}
+
+.foter {
+    font-family: 'Inter', sans-serif;
+    padding: 30px;
+    background-color: #070211;
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.add {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.right {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social {
+    margin: 20px;
+}
